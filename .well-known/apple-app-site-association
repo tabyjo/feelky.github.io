@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+             {
+               "appID":  "6RMA8VUX62.io.feelky.feelky",
+               "paths" : ["*"]
+             }
+         ]
+     }
+    }  

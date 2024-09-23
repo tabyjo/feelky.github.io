@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.feelky.feelky",
+      "sha256_cert_fingerprints":
+      ["34:15:8C:AA:3B:26:9B:03:08:ED:D7:A1:9D:66:82:69:E5:62:7F:73:C3:2D:1A:11:2C:91:F5:CA:6A:ED:F5:10"]
+    }
+  }]
